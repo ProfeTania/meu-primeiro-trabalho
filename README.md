@@ -7,3 +7,4 @@
 **Adicionar o tópico**
 
 **Deletar o repositório**
+#ge-pensamento2023
