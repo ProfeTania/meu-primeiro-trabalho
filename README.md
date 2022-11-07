@@ -5,6 +5,7 @@
 **Editando o readme**
 
 **Adicionar o tópico**
+#ge-pensamento2023
 
 **Deletar o repositório**
-#ge-pensamento2023
+
